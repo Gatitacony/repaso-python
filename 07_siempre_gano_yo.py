@@ -3,3 +3,4 @@ print ("bienvenido al juego de la fortuna")
 player = int (input ("dame tu numero: "))
 print (f"{player} lo sumare mas uno {player + 1}")
 print ("siempre gano yo")
+#git add . git commit -m "" git push origin main 
